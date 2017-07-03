@@ -21,3 +21,8 @@
 ### Sunday July 2nd 2017 
 
 - I managed here to finish up the Javascript videos on Basic Control flow.
+
+
+### Monday 3rd 2017
+
+- Worked on Jquery, read documentation, and we used some methods. Basically we compared Javascript and Jquery, asynchronous programming, Ajax...
