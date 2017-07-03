@@ -12,3 +12,12 @@
 - We did a lot of indepth bootstrapping today. Ebuka invited his friend Kennedy over to enlighten us further about the uses of the bootstrap framework. Columns, rows, classes etc... A very engaging class.
 
 - But what especially stood out today as an activity was the induction ceremony we had with the people from Stonebricks Hub and TheHashHub. We were really encouraged to think, create and iterate new ideas/concepts that can provide solutions in today's economy, while also being profitable enterpreneurs. 
+
+### Saturday July 1st 2017
+
+- Saturday was solely dedicated to working on the videos given to us by Ebuka. I managed to work on some Javascript script videos and some exercises as well. I learned about Introduction to Javascript, data types, logical operators, conditionals, for loops, while loops.
+
+
+### Sunday July 2nd 2017 
+
+- I managed here to finish up the Javascript videos on Basic Control flow.
