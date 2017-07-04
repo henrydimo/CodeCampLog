@@ -26,3 +26,7 @@
 ### Monday 3rd 2017
 
 - Worked on Jquery, read documentation, and we used some methods. Basically we compared Javascript and Jquery, asynchronous programming, Ajax...
+
+### Tuesday 4th 2017
+
+- Started working on the basics of Javascript on Freecodecamp. Data structures, concatenation, manipulating arrays...
