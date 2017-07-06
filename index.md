@@ -30,3 +30,7 @@
 ### Tuesday 4th 2017
 
 - Started working on the basics of Javascript on Freecodecamp. Data structures, concatenation, manipulating arrays...
+
+### Wednesday 5th 2017
+
+- Today we individually discussed ideas about our personal projects. Each person suggested at least two ideas that could be worked on to the team. All the ideas put forward were great.
