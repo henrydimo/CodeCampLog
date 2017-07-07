@@ -34,3 +34,7 @@
 ### Wednesday 5th 2017
 
 - Today we individually discussed ideas about our personal projects. Each person suggested at least two ideas that could be worked on to the team. All the ideas put forward were great.
+
+### Thursday 6th 2017
+
+- We worked more on Javascript functions, scopes, factorials and replacing characters with regular expressions. 
