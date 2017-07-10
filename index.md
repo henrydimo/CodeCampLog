@@ -38,3 +38,15 @@
 ### Thursday 6th 2017
 
 - We worked more on Javascript functions, scopes, factorials and replacing characters with regular expressions. 
+
+### Friday 7th 2017
+- More on Javascript functions and arrays
+
+### Saturday 8th 2017
+- Worked at the hub with members of the team, where we revised work done on Javascript
+
+### Sunday 9th 2017
+- Worked personally on the exercises given to us by our instructor on repl.it
+
+### Monday 10th 2017
+- Revised with the instructor, the Javascript exercises on repl.it, on objects and arrays
