@@ -50,3 +50,7 @@
 
 ### Monday 10th 2017
 - Revised with the instructor, the Javascript exercises on repl.it, on objects and arrays
+
+### Tuesday 11th 2017
+
+- Began our introduction into node.js today. 
