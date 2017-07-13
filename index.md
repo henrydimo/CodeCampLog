@@ -60,3 +60,7 @@
 ### Wednesday 12th 2017
 
 - We started building a personal Todo app. We worked on the UI - HTML, CSS and Javascript
+
+### Thursday 13th 2017
+
+- Continued building our Todo project, working on the UI and UX
