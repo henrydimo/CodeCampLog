@@ -54,3 +54,9 @@
 ### Tuesday 11th 2017
 
 - Began our introduction into node.js today. 
+
+- Watched videos about node.js on youtube and coded along
+
+### Wednesday 12th 2017
+
+- We started building a personal Todo app. We worked on the UI - HTML, CSS and Javascript
