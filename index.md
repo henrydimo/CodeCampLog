@@ -64,3 +64,11 @@
 ### Thursday 13th 2017
 
 - Continued building our Todo project, working on the UI and UX
+
+### Friday 14th 2017
+
+- Completed work on the front-end of our To-do App, correcting the errors and adding a few more functionalities 
+
+### Saturday 15th 2017
+
+- Continued personal self developement in coding and working on repl exercises
