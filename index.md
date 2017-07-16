@@ -72,3 +72,7 @@
 ### Saturday 15th 2017
 
 - Continued personal self developement in coding and working on repl exercises
+
+### Sunday 16th 2017
+
+- Worked on repl.it exercises
