@@ -76,3 +76,35 @@
 ### Sunday 16th 2017
 
 - Worked on repl.it exercises
+
+### Monday 17th 2017
+
+- Started work on the back-end of our to-do app using node.js
+
+### Tuesday 18th 2017
+
+- Continued server side, backend work on our To-Do App
+
+### Wednesday 19th 2017
+
+- Did some personal development, exploring tools such as Ionic and other App sketch, mock-up platforms
+
+### Thursday 20th 2017
+
+- Fell ill
+
+### Friday 21st 2017
+
+- Managed to explore the uses of MongoDB
+- Started mockup sketches for my personal project using moqups.com
+- Continued planning for my personal project, updating documentation and building a questionnnaire
+
+### Saturday 22nd 2017
+
+-  Continued work on my personal project while recovering from illness
+
+### Sunday 23rd 2017
+
+- Working on my project's mockup
+- Worked on Udemy's UI development videos
+
