@@ -108,3 +108,11 @@
 - Working on my project's mockup
 - Worked on Udemy's UI development videos
 
+### Monday 24th 2017
+
+- Started work building another team project called Kodedland. 
+
+### Tuesday 25th 2017
+
+- Continued work on our team project, working on the UI and UX using bootstrap
+
