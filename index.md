@@ -116,3 +116,25 @@
 
 - Continued work on our team project, working on the UI and UX using bootstrap
 
+### Wednesday 26th 2017
+
+- Created a post Schema which acts as a template for posts
+- Created and worked the server, routes
+- Worked on ejs (embedded javascript) files that the html more dynamic than static
+- created a database using mongoose and mlabs
+
+### Thursday 27th 2017
+
+- Revised the work done over the week with members of the team at the hub
+
+### Friday 28th 2017
+
+- Fell ill with malaria
+
+### Saturday 29th 2017
+
+- Recovering from illness
+
+### Sunday 30th 2017
+
+- Revised work done so far and continued planning 
