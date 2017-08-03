@@ -138,3 +138,19 @@
 ### Sunday 30th 2017
 
 - Revised work done so far and continued planning 
+
+### Monday 31st 2017
+
+- Revised my members of the team on Bootstrap, watching videos and coding along
+
+### Tuesday 1st 2017
+
+- Started my a cover-info page for my personal project
+
+### Wednesday 2nd 2017
+
+- We started building a sample ticktack app using reactnative so as to understand it
+
+### Thursday 3rd 2017
+
+- Continued building my cover page project using bootstrap and css
