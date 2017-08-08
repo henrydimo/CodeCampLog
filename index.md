@@ -154,3 +154,25 @@
 ### Thursday 3rd 2017
 
 - Continued building my cover page project using bootstrap and css
+
+### Friday 4th 2017
+
+- We worked on some Javascript exercises using codewars
+
+### Saturday 5th 2017
+
+- Attended an FCC meetup where we worked on Javascript exercises using freecodecamp
+
+- Continued work on my personal project using CSS and Bootstrap
+
+### Sunday 6th 2017
+
+- Work on CSS and Bootstrap
+
+### Monday 7th 2017
+
+- Worked on Javascript exercises
+
+### Tuesday 8th 2017
+
+- Worked on Javascript exercises using Freecodecamp
